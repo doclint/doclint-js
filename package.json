@@ -37,7 +37,9 @@
     "arg": "^4.1.1",
     "chalk": "^2.4.2",
     "esm": "^3.2.25",
-    "inquirer": "^7.0.0",
-    "ora": "^4.0.2"
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "consola": "^2.11.0"
   }
 }

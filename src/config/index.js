@@ -2,8 +2,7 @@ const options = {
   "root": true,
   "files": {
     "include": ["*/*"]
-  },
-  "rules": "default"
+  }
 }
 
 const config = {
