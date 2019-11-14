@@ -1,0 +1,43 @@
+{
+  "name": "doclint",
+  "version": "0.0.1",
+  "description": "A documentation linter to help make your documentation better",
+  "main": "src/index.js",
+  "bin": {
+    "@kenigbolo/doclint": "bin/doclint",
+    "doclint": "bin/doclint"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:kenigbolo/doclint.git"
+  },
+  "homepage": "https://github.com/kenigbolo/doclint#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "doc",
+    "docs",
+    "lint",
+    "linter",
+    "doclint",
+    "doc lint",
+    "doc linter",
+    "documentation",
+    "documentation linter"
+  ],
+  "author": "Kenigbolo Meya Stephen",
+  "license": "MIT",
+  "dependencies": {
+    "app-root-path": "^2.2.1",
+    "arg": "^4.1.1",
+    "chalk": "^2.4.2",
+    "esm": "^3.2.25",
+    "inquirer": "^7.0.0",
+    "ora": "^4.0.2"
+  }
+}
