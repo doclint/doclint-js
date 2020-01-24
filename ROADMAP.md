@@ -83,7 +83,7 @@ However, when the default is set to true or not set at all, the configuration op
 ],
 ```
 
-For a list of the current race relatedterms see [here](/js/src/rules/raceRelatedTerms.js)
+For a list of the current race relatedterms see [here](/src/rules/raceRelatedTerms.js)
 
 ### use-docs-folder Ruleset
 
